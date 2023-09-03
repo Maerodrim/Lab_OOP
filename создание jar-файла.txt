@@ -1,0 +1,3 @@
+jar --create --manifest manifest.mf --file [name_of_jar_file].jar [name_of_binary_file].class [name_of_binary_file].class - полная форма записи для создания jar-файла
+jar -cmf manifest.mf [name_of_jar_file].jar [name_of_binary_file].class [name_of_binary_file].class - сокращённая форма записи для создания jar-файла
+java -jar [name_of_jar_file].jar [arguments] - выполнение jar-файла
