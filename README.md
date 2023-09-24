@@ -1,6 +1,6 @@
 ##### **Курс лабораторных работ по ООП**
-Успеваимость по лабораторным можно отслеживать в таблице https://docs.google.com/spreadsheets/d/1-mdnuX9L9CJQI57XXsi7DFyFYQNE2DcWtxk7z7ssFVE/edit?usp=sharing
-
+Успеваимость по лабораторным можно отслеживать в таблице: https://docs.google.com/spreadsheets/d/1-mdnuX9L9CJQI57XXsi7DFyFYQNE2DcWtxk7z7ssFVE/edit?usp=sharing
+Запись на защиту лабораторной: https://docs.google.com/spreadsheets/d/11IFa5_znmzmLblWrDACqWfiidBbYK3ejE2t53jNt3QA/edit?usp=sharing
 Этапы сдачи лабораторной:
   1) Внимательно прочитать и понять задание
   2) Написать код по заданию
